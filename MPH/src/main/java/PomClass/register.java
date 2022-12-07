@@ -32,7 +32,7 @@ public class register {
 	//Step 3 :- Method Creation
 	public void regist() {reg.click();}
 
-	public void fullName(){name.sendKeys("Ditya");}
+	public void fullName(){name.sendKeys("Sakshi");}
 	public void mob(){mobile.sendKeys("9501021456");}
 	public void eMail(){email.sendKeys("monalipalakhe@gmail.com");}
 	public void add(){address.sendKeys("Peth NaiGoan");}
